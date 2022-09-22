@@ -43,9 +43,9 @@ Here are some ideas to get you started:
 
 
 <section align="center">
-<a target="blank" href="https://www.linkedin.com/in/vinicius-henrique-1a016524a/"><img align="left" alt="Linkedin" title=Linkedin src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/vinicius-henrique-1a016524a/" target="_blank"><img align="left" alt="Linkedin" title=Linkedin src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 
-<a target="blank" href="https://www.instagram.com/vini.hsr/"><img align="left" alt="Instagram" title="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+<a target="_blank" href="https://www.instagram.com/vini.hsr/"><img align="left" alt="Instagram" title="instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </section>
   
 <br /> <br /> 
