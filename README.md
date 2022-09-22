@@ -55,11 +55,9 @@ Here are some ideas to get you started:
 <br /> 
 
 <div align="left">
-<img src="https://media4.giphy.com/media/YHkrDaZ59oqRC7CLiV/200w.webp?cid=ecf05e478ei5tai7z4py2dflubygg4m7km6m43rg00j1n1o3&rid=200w.webp&ct=s" width="123">
-<img src="https://media4.giphy.com/media/YHkrDaZ59oqRC7CLiV/200w.webp?cid=ecf05e478ei5tai7z4py2dflubygg4m7km6m43rg00j1n1o3&rid=200w.webp&ct=s" width="122">
-<img src="https://media4.giphy.com/media/YHkrDaZ59oqRC7CLiV/200w.webp?cid=ecf05e478ei5tai7z4py2dflubygg4m7km6m43rg00j1n1o3&rid=200w.webp&ct=s" width="122">
-<img src="https://media4.giphy.com/media/YHkrDaZ59oqRC7CLiV/200w.webp?cid=ecf05e478ei5tai7z4py2dflubygg4m7km6m43rg00j1n1o3&rid=200w.webp&ct=s" width="122">
-<img src="https://media4.giphy.com/media/YHkrDaZ59oqRC7CLiV/200w.webp?cid=ecf05e478ei5tai7z4py2dflubygg4m7km6m43rg00j1n1o3&rid=200w.webp&ct=s" width="122">
-<img src="https://media4.giphy.com/media/YHkrDaZ59oqRC7CLiV/200w.webp?cid=ecf05e478ei5tai7z4py2dflubygg4m7km6m43rg00j1n1o3&rid=200w.webp&ct=s" width="122">
-<img src="https://media4.giphy.com/media/YHkrDaZ59oqRC7CLiV/200w.webp?cid=ecf05e478ei5tai7z4py2dflubygg4m7km6m43rg00j1n1o3&rid=200w.webp&ct=s" width="122">
-<img src="https://media4.giphy.com/media/YHkrDaZ59oqRC7CLiV/200w.webp?cid=ecf05e478ei5tai7z4py2dflubygg4m7km6m43rg00j1n1o3&rid=200w.webp&ct=s" width="123">
+<img src="https://media4.giphy.com/media/YHkrDaZ59oqRC7CLiV/200w.webp?cid=ecf05e478ei5tai7z4py2dflubygg4m7km6m43rg00j1n1o3&rid=200w.webp&ct=s" width="130">
+<img src="https://media4.giphy.com/media/YHkrDaZ59oqRC7CLiV/200w.webp?cid=ecf05e478ei5tai7z4py2dflubygg4m7km6m43rg00j1n1o3&rid=200w.webp&ct=s" width="130">
+<img src="https://media4.giphy.com/media/YHkrDaZ59oqRC7CLiV/200w.webp?cid=ecf05e478ei5tai7z4py2dflubygg4m7km6m43rg00j1n1o3&rid=200w.webp&ct=s" width="130">
+<img src="https://media4.giphy.com/media/YHkrDaZ59oqRC7CLiV/200w.webp?cid=ecf05e478ei5tai7z4py2dflubygg4m7km6m43rg00j1n1o3&rid=200w.webp&ct=s" width="130">
+<img src="https://media4.giphy.com/media/YHkrDaZ59oqRC7CLiV/200w.webp?cid=ecf05e478ei5tai7z4py2dflubygg4m7km6m43rg00j1n1o3&rid=200w.webp&ct=s" width="130">
+
