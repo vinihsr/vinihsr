@@ -35,7 +35,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  
 </section>
+
 
 <br />
 <h1 align="left">Connect with me <img src="https://media1.giphy.com/media/26FlthrtMlBicWANy/200.webp?cid=ecf05e47sysllvaizocjo0s4nteod6n7wheyg0jiiisll0qp&rid=200.webp&ct=s" width="50px">
