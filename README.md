@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 
 <br />
+<br>
 
 <section align="center"> 
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
