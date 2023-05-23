@@ -58,7 +58,7 @@ Here are some ideas to get you started:
   
 <br /> <br /> 
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=vinicius123henrique321&theme=elegant)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/username=vinicius123henrique321&theme=high-contrast/github-readme-activity-graph)
 
 <br /> 
 
