@@ -46,10 +46,10 @@ Hello! Vinicius Henrique here
 <section align="center">
 <a href="https://www.linkedin.com/in/vinicius-henrique-1a016524a/"><img align="left" alt="Linkedin" title=Linkedin target="_blank" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 
-<a href="https://www.instagram.com/vini.hsr/"><img align="left" alt="Instagram" title="instagram" target="_blank" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+<a href="https://www.instagram.com/vinicius.css/"><img align="left" alt="Instagram" title="instagram" target="_blank" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 
 <a href="https://discord.com/users/"><img align="left" src="https://img.shields.io/badge/Discord-151515?style=for-the-badge&logo=discord&logoColor=">
   
-
+<a href="https://vinicius123henrique321.github.io/Portifolio/"><img align="right" alt="Portfolio" title="Portfolio" target="_blank" src="https://img.shields.io/badge/Portfolio-%238806CE.svg?style=for-the-badge&logo=Github&logoColor=white">
   
 </section>
