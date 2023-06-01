@@ -40,7 +40,7 @@ Hello! Vinicius Henrique here
 </div>
 
 <br>
-<h1 align="left">Connect with me <img src="https://media1.giphy.com/media/26FlthrtMlBicWANy/200.webp?cid=ecf05e47sysllvaizocjo0s4nteod6n7wheyg0jiiisll0qp&rid=200.webp&ct=s" width="50"> ______________ And look my portfolio: <img src="https://media1.giphy.com/media/26FlthrtMlBicWANy/200.webp?cid=ecf05e47sysllvaizocjo0s4nteod6n7wheyg0jiiisll0qp&rid=200.webp&ct=s" width="50"> 
+<h1 align="left">Connect with me: <img src="https://media1.giphy.com/media/26FlthrtMlBicWANy/200.webp?cid=ecf05e47sysllvaizocjo0s4nteod6n7wheyg0jiiisll0qp&rid=200.webp&ct=s" width="50"> ______________ And look my portfolio: <img src="https://media1.giphy.com/media/26FlthrtMlBicWANy/200.webp?cid=ecf05e47sysllvaizocjo0s4nteod6n7wheyg0jiiisll0qp&rid=200.webp&ct=s" width="50"> 
 </h1>
 
 <section align="center">
