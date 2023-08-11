@@ -6,8 +6,8 @@ Hello! Vinicius Henrique here
 
 
 * 🧠 Learning Java
-* 🌟 Scrum Experience 🌟 UI and UX design Expirience
-* 👁️ Always looking for new learnings
+* 🌟 Scrum Experience 🌟 UI and UX design Experience
+* 👁️ Always looking for new yearnings
 
 
 <div>
