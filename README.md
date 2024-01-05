@@ -4,10 +4,8 @@ Hello! Vinicius Henrique here
 <img src="https://media4.giphy.com/media/8THUQONA5q6PWlhXek/200w.webp?cid=ecf05e476rb7hjadl4zh5ytg4odtplw71s45tazchn0ct2wn&rid=200w.webp&ct=s" width="50">
 </h1>
 
-
-* 🧠 Learning Java
-* 🌟 Scrum Experience 🌟 UI and UX design Experience
-* 👁️ Always looking for new yearnings
+* 🌟 Scrum Experience 🌟 UI and UX design Experience 🌟 Learning Vue
+* 👁️ Always looking for new yearnings ("yearning" is purposeful :))
 
 
 <div>
