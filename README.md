@@ -7,7 +7,6 @@ Hello! Vinicius Henrique here
 * 🌟 Scrum Experience 🌟 UI and UX design Experience 🌟 Learning React
 * 👁️ Always looking for new yearnings ("yearning" is purposeful :))
 
-
 <div>
 <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=vinicius123henrique321&show_icons=true&theme=dark">
 <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius123henrique321&layout=compact&theme=dark">
