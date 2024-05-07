@@ -29,7 +29,7 @@ Hello! Vinicius Henrique here
 <section align="center">
 <a href="https://www.linkedin.com/in/vinicius-henrique-1a016524a/"><img align="left" alt="Linkedin" title=Linkedin target="_blank" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 
-<a href="https://www.instagram.com/vinicius.css/"><img align="left" alt="Instagram" title="instagram" target="blank" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+<a href="https://www.instagram.com/vinicius.scss/"><img align="left" alt="Instagram" title="instagram" target="blank" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 
 <a href="https://discord.com/users/vinihsr#6931"><img align="left" target="blank" src="https://img.shields.io/badge/Discord-151515?style=for-the-badge&logo=discord&logoColor=white">  
 </section>
