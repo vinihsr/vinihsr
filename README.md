@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=29F727&background=37FFF000&vCenter=true&random=false&width=700&height=70&lines=Hi%2C+Vinicius+Henrique+here!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1000&color=29F727&background=37FFF000&vCenter=true&random=false&width=700&height=70&lines=Hi%2C+Vinicius+Henrique+here!)](https://git.io/typing-svg)
 
 * 🌟 Scrum Experience 🌟 UI and UX design Experience 🌟 Learning React
 * 👁️ Always looking for new yearnings ("yearning" is purposeful :))
