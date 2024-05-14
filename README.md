@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1000&color=29F727&background=37FFF000&vCenter=true&random=false&width=700&height=70&lines=Hi%2C+Vinicius+Henrique+here!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=29F727&background=37FFF000&vCenter=true&random=false&width=700&height=70&lines=Hi%2C+Vinicius+Henrique+here!)](https://git.io/typing-svg)
 
 * 🌟 Scrum Experience 🌟 UI and UX design Experience 🌟 Learning React
 * 👁️ Always looking for new yearnings ("yearning" is purposeful :))
@@ -21,8 +21,8 @@
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </section>
 
-<h1 align="left">Connect with me: 
-</h1>
+<h2 align="left">Connect with me: 
+</h2>
 
 <section align="center">
 <a href="https://www.linkedin.com/in/vinicius-henrique-1a016524a/"><img align="left" alt="Linkedin" title=Linkedin target="_blank" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -33,8 +33,11 @@
 </section>
 
 <div>
-  <br>
-  <h1 align="left">And look my portfolio: </h1>
+  
+ <br>
+ 
+<h2 align="left">And look my portfolio:
+</h2>
 
 <section align="center">
 <a href="https://vinihsr.github.io/Portifolio/"><img align="left" alt="Portfolio" title="Portfolio" target="blank" src="https://img.shields.io/badge/Portfolio-%238806CE.svg?style=for-the-badge&logo=Github&logoColor=white">
