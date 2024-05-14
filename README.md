@@ -1,6 +1,4 @@
-<h1 text-align="center">
-Hello! Vinicius Henrique here  
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=29F727&background=37FFF000&vCenter=true&random=false&width=700&height=70&lines=Hi%2C+Vinicius+Henrique+here!)](https://git.io/typing-svg)
 
 * 🌟 Scrum Experience 🌟 UI and UX design Experience 🌟 Learning React
 * 👁️ Always looking for new yearnings ("yearning" is purposeful :))
@@ -41,5 +39,4 @@ Hello! Vinicius Henrique here
 <section align="center">
 <a href="https://vinihsr.github.io/Portifolio/"><img align="left" alt="Portfolio" title="Portfolio" target="blank" src="https://img.shields.io/badge/Portfolio-%238806CE.svg?style=for-the-badge&logo=Github&logoColor=white">
 </a>
-</section>
-</div>
+</section>  
