@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=29F727&background=37FFF000&vCenter=true&random=false&width=700&height=70&lines=Hi%2C+Vinicius+Henrique+here!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=38A0F7FF&background=37FFF000&vCenter=true&random=false&width=700&height=70&lines=Hi%2C+Vinicius+Henrique+here!)](https://git.io/typing-svg)
 
 * 🌟 Scrum Experience 🌟 UI and UX design Experience 🌟 Learning React
 * 👁️ Always looking for new yearnings ("yearning" is purposeful :))
@@ -29,7 +29,7 @@
 
 <a href="https://www.instagram.com/vinicius.scss/"><img align="left" alt="Instagram" title="instagram" target="blank" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 
-<a href="https://discord.com/users/vinihsr#6931"><img align="left" target="blank" src="https://img.shields.io/badge/Discord-151515?style=for-the-badge&logo=discord&logoColor=white">  
+<a href="https://discord.com/users/vinihsr#6931"><img align="left" target="blank" src="https://img.shields.io/badge/Discord-717171?style=for-the-badge&logo=discord&logoColor=white">  
 </section>
 
 <div>
