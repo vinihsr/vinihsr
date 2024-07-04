@@ -40,6 +40,6 @@
 </h2>
 
 <section align="center">
-<a href="https://portifolio-4rfizvqra-vinicius-henriques-projects-099ce2af.vercel.app/" target="_blank"><img align="left" alt="Portfolio" title="Portfolio" target="blank" src="https://img.shields.io/badge/Portfolio-%238806CE.svg?style=for-the-badge&logo=Github&logoColor=white">
+<a href="https://portifolio-git-main-vinicius-henriques-projects-099ce2af.vercel.app/" target="_blank"><img align="left" alt="Portfolio" title="Portfolio" target="blank" src="https://img.shields.io/badge/Portfolio-%238806CE.svg?style=for-the-badge&logo=Github&logoColor=white">
 </a>
 </section>  
