@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=38A0F7FF&background=37FFF000&vCenter=true&random=false&width=700&height=70&lines=Hi%2C+Vinicius+Henrique+here!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=48ad0f&background=37FFF000&vCenter=true&random=false&width=700&height=70&lines=Hi%2C+Vinicius+Henrique+here!)](https://git.io/typing-svg)
 
 * 🌟 Scrum Experience 🌟 UI and UX design Experience 🌟 Learning React
 * 👁️ Always looking for new yearnings ("yearning" is purposeful :))
@@ -43,3 +43,9 @@
 <a href="https://portifolio-git-main-vinicius-henriques-projects-099ce2af.vercel.app/" target="_blank"><img align="left" alt="Portfolio" title="Portfolio" target="blank" src="https://img.shields.io/badge/Portfolio-%238806CE.svg?style=for-the-badge&logo=Github&logoColor=white">
 </a>
 </section>  
+
+<div align="right">
+  <img src="https://profile-counter.glitch.me/vinihsr/count.svg?"  />
+</div>
+
+###
