@@ -51,6 +51,8 @@
 </div>
 </section>
 
+<br>
+
 <h2 align="left">Connect with me:</h2>
 
 <div style="display: flex; align-items: center;">
@@ -71,6 +73,8 @@
   </a>
 </div>
 
+<br>
+
 <h2 align="left">And look at my portfolio:</h2>
 
 <section align="left" style="margin-bottom: 20px;">
@@ -79,7 +83,6 @@
   </a>
 </section>
 
-<br>
 <br>
 
 <section align="center">
