@@ -3,7 +3,7 @@
 * 🌟 Scrum Experience 🌟 UI and UX design Experience 🌟 Learning React 🌟
 * 👁️ Always looking for new yearnings ("yearning" is purposeful :)) 👁️
 * Enthusiast of <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="20" alt="linux logo"  />
-* These are the languages ​​I specialize in:
+<h2 align="left">These are the languages / libraries / frameworks ​​i specialize in:</h2>
 
 <section> 
 <div align="left">
@@ -21,7 +21,9 @@
 </div>
 </section>
 
-* And these are the technologies/languages ​​already used:
+<br>
+
+<h2 align="left">And these are the technologies/languages ​​already used:</h2> 
 
 <section>
   <div align="left">
@@ -73,10 +75,13 @@
 
 <section align="left" style="margin-bottom: 20px;">
   <a href="https://portifolio-git-main-vinicius-henriques-projects-099ce2af.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portifolio-5fbd39?logo=githubactions&logoColor=white&style=for-the-badge" height="40" alt="githubactions logo" />
+    <img src="https://img.shields.io/badge/Portifolio-34721b?logo=githubactions&logoColor=white&style=for-the-badge" height="40" alt="githubactions logo" />
   </a>
 </section>
 
-<section align="right">
-  <img width="1100" src="https://profile-counter.glitch.me/vinihsr/count.svg?" />
+<br>
+<br>
+
+<section align="center">
+  <img width="1000" src="https://profile-counter.glitch.me/vinihsr/count.svg?" />
 </section>
