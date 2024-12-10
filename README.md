@@ -3,7 +3,7 @@
 * 🌟 Scrum Experience 🌟 UI and UX design Experience 🌟 DBA experience 🌟 Learning SQL 🌟
 * 👁️ Always looking for new yearnings ("yearning" is purposeful :)) 👁️
 * Enthusiast of <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="20" alt="linux logo"  />
-<h2 align="left">These are the languages / libraries / frameworks ​​i specialize in:</h2>
+<h2 align="left">These are the languages / libraries / frameworks / databases ​​i specialize in:</h2>
 
 <section> 
   <div align="left">
