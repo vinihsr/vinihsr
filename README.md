@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=5fbd39&background=37FFF000&vCenter=true&random=false&width=700&height=70&lines=Hi%2C+Vinicius+Henrique+here!)](https://git.io/typing-svg)
 
-* 🌟 Scrum Experience 🌟 UI and UX design Experience 🌟 Learning React 🌟
+* 🌟 Scrum Experience 🌟 UI and UX design Experience 🌟 DBA experience 🌟 Learning SQL 🌟
 * 👁️ Always looking for new yearnings ("yearning" is purposeful :)) 👁️
 * Enthusiast of <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="20" alt="linux logo"  />
 <h2 align="left">These are the languages / libraries / frameworks ​​i specialize in:</h2>
@@ -16,8 +16,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
 </div>
 </section>
 
