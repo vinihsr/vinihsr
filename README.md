@@ -3,7 +3,7 @@
 * 🌟 Scrum Experience 🌟 UI and UX design Experience 🌟 DBA Experience 🌟 SQL Experience 🌟
 * 👁️ Always looking for new yearnings ("yearning" is purposeful :)) 👁️
 * Enthusiast of <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="20" alt="linux logo"  />
-<h2 align="left">These are the languages / libraries / frameworks / databases ​​i specialize in:</h2>
+<h2 align="left">These are the technologies in which I specialized:</h2>
 
 <section> 
   <div align="left">
@@ -20,6 +20,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sql server logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="sql server logo" />
   </div>
 </section>
 
