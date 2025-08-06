@@ -27,17 +27,3 @@
   </div>
 </section>
 
-
-<br>
-
-<h2 align="left">And look at my portfolio:</h2>
-
-<section align="left" style="margin-bottom: 20px;">
-Soon...
-</section>
-
-<br>
-
-<section align="center">
-  <img width="900" src="https://profile-counter.glitch.me/vinihsr/count.svg?" />
-</section>
