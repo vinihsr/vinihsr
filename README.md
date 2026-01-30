@@ -4,6 +4,7 @@ SQL Experience | Backend Experience | Scrum Experience | Network Infrastructure 
 
 * Always looking for new learnings.
 * Enthusiast of Linux.
+* Aspiring Data Engineer.
 <h2 align="left">These are the technologies that i'm specialized:</h2>
 
 <section> 
