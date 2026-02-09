@@ -9,6 +9,9 @@ Database Experience | Backend Experience | Scrum Experience | Network Infrastruc
 
 <section> 
   <div align="center">
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="sql server logo" />
+    <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sql server logo" />
     <img width="6" />
     <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postgresql/postgresql-original.svg" height="40" alt="sql server logo" />
